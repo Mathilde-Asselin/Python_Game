@@ -22,6 +22,6 @@ Et "run without debugging" !
 ├── music.mp3 #Musique de fond
 ```
 
-## 💻 People who work on this project 
+## 💻 Auteur
 
 * Mathilde Asselin
